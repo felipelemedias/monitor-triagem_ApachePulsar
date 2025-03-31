@@ -1,0 +1,7 @@
+[31/03/2025 00:51:57] ALERT: felipe - High SBP (150)
+[31/03/2025 00:52:11] ✅ Alert 0856f541-4938-4466-9075-f7f39c09ac79 confirmed: High SBP (150)
+[31/03/2025 00:52:13] ALERT: felipe - High SBP (162), High DBP (96)
+[31/03/2025 00:52:16] ✅ Alert a37acc33-14ef-4a9d-bbb9-54df8b339c69 confirmed: High SBP (162), High DBP (96)
+[31/03/2025 00:52:22] ALERT: felipe - High HR (138bpm), Low Temp (35.0°C)
+[31/03/2025 00:52:26] ❌ Alert d33f11bb-8b3a-4269-8c51-c422c67ea914 ignored: High HR (138bpm), Low Temp (35.0°C)
+[31/03/2025 00:52:37] ALERT: felipe - High SBP (156), High DBP (93)
