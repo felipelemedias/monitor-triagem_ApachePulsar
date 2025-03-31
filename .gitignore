@@ -36,3 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Arquivos de log e históricos que não devem ser versionados
+historico_pacientes.csv
+alertas_clinicos.log
